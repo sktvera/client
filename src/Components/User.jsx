@@ -1,7 +1,7 @@
-import React from 'react'; 
+import React, {Component} from 'react';  
 import '../css/User.css';
 
-class User extends React.Component{
+class User extends Component{
     render(){
         return(
             <div>

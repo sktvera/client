@@ -1,7 +1,7 @@
-import React from 'react'; 
+import React,{Component} from 'react'; 
 import '../css/Api.css';
 
-class Api extends React.Component{
+class Api extends Component{
     render(){
         return(
             <div>

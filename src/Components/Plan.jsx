@@ -1,7 +1,7 @@
-import React from 'react'; 
+import React,{Component} from 'react';  
 import '../css/App.css';
 
-class Plan extends React.Component{
+class Plan extends Component{
     render(){
         return(
             <div>         
